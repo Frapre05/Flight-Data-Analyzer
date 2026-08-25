@@ -35,3 +35,4 @@ jobs:
           git add storico_voli.csv
           git commit -m "Aggiornamento automatico dati" || echo "Nessuna modifica da salvare"
           git push
+          # Tentativo di resuscitare
